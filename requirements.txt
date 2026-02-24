@@ -52,8 +52,6 @@ importlib_resources==6.5.2
 ipykernel==6.31.0
 ipython==8.18.1
 itsdangerous==2.2.0
-jax==0.4.30
-jaxlib==0.4.30
 jedi==0.19.2
 Jinja2==3.1.6
 joblib==1.5.3
