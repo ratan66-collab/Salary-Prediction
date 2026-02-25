@@ -1,2 +1,0 @@
-# Salary-Prediction
-traacking expences
