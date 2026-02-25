@@ -15,7 +15,7 @@ def init_model():
     global model, le_job, le_seniority
     print("Loading dataset and training model...")
     
-    data_path = 'eda_data.csv.zip'
+    data_path = 'eda_data.csv'
     if not os.path.exists(data_path):
         print("Data file not found!")
         return
